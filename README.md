@@ -16,3 +16,4 @@ Unknown commands get a polite, literal answer — BARBIE does exactly what you s
 git clone https://github.com/<you>/barbie.git
 cd barbie
 python -m pip install pytest requests# my barbie project 
+# day 2 
